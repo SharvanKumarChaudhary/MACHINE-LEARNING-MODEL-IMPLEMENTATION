@@ -35,3 +35,4 @@ VS Code :- used for writing and tasting python code.
 
 ## OUTPUT :-
 
+<img width="1089" height="530" alt="Image" src="https://github.com/user-attachments/assets/46815ad8-e955-4d44-b8f7-b1812a92abc2" />
